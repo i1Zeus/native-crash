@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "native-crash",
-    "slug": "native-crash",
+    "name": "Hapit Tracker",
+    "slug": "hapit-tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
